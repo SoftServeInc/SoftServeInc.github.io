@@ -1,3 +1,6 @@
+.sass-cache
+Gemfile.lock
 .suo
 _site/
 .DS_Store
+
