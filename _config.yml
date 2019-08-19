@@ -1,16 +1,1 @@
-title: SoftServe Open Source Projects
-description: Homepage of open source projects developed by SoftServe team
-sitename: SoftServe Open Source
-homeurl: http://www.softserveinc.com/
-header_image: /assets/img/banner.jpg
-sass:
-  sass_dir: /assets/_sass
-  style: :compressed
-collections:
-  - features
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - README.md
-  - LICENSE.txt
-  - CNAME
+theme: jekyll-theme-cayman
